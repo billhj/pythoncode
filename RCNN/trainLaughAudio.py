@@ -12,7 +12,6 @@ from ReadData import *
 from RNNLayer import *
 from util import *
 
-
 # logv = T.matrix()
 # newlog = T.set_subtensor(logv[:,0], logv[:,0] * 10.0)
 # 
